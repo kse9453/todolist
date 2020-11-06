@@ -1,4 +1,6 @@
-# Getting Started with Create React App
+# 리액트 공부
+
+리액트 공부를 위한 기본적인 예제
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
